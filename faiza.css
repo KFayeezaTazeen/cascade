@@ -1,0 +1,16 @@
+.container{
+    background-image:url('https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/12/freelance-web-developer.jpg');
+    height:600px;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+#dropdown{
+    background-color:green;
+}
+#p1{
+    color:yellow;
+}
+#blur{
+    color:white;
+}
+
